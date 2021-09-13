@@ -7,4 +7,4 @@ This repository contain dataset which has 9331 rows which contain description of
 TO generate model, you need to run jupyter notebook. (Model training can be time consuming depends upon system specification.)
 
 ## I/O
-After generating model, YOu need to pass any perticular company description and model gives you category belonging.
+After generating model, you need to pass any perticular company description (For Example "Viivo ensures access to your files always remains with you.") and model gives you category belonging (For instance, Cloud Security,Computer,Network Security).
